@@ -1,1 +1,9 @@
 E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\bin\Debug\Database application.exe.config
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\bin\Debug\Database application.exe
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\bin\Debug\Database application.pdb
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\obj\Debug\Database application.csprojResolveAssemblyReference.cache
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\obj\Debug\Database_application.Form1.resources
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\obj\Debug\Database_application.Properties.Resources.resources
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\obj\Debug\Database application.csproj.GenerateResource.Cache
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\obj\Debug\Database application.exe
+E:\Users\Mikhail\Documents\2017_IU\К собеседованию\Database application\Database application\obj\Debug\Database application.pdb
